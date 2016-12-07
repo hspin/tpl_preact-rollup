@@ -1,0 +1,13 @@
+(function () {
+'use strict';
+
+var foo = 42;
+
+console.log("test");
+
+document.getElementById("demo").innerHTML = "this it";
+
+console.log(foo);
+
+}());
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjpudWxsLCJzb3VyY2VzIjpbIi4uL3NjcmlwdHMvZm9vLmpzIiwiLi4vc2NyaXB0cy9tYWluLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IDQyO1xuIiwiaW1wb3J0IGZvbyBmcm9tICcuL2Zvby5qcyc7XG5cbmNvbnNvbGUubG9nKFwidGVzdFwiKTtcblxuZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoXCJkZW1vXCIpLmlubmVySFRNTCA9IFwidGhpcyBpdFwiO1xuXG5jb25zb2xlLmxvZyhmb28pO1xuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLFVBQWUsRUFBRSxDQUFDOztBQ0VsQixPQUFPLENBQUMsR0FBRyxDQUFDLE1BQU0sQ0FBQyxDQUFDOztBQUVwQixRQUFRLENBQUMsY0FBYyxDQUFDLE1BQU0sQ0FBQyxDQUFDLFNBQVMsR0FBRyxTQUFTLENBQUM7O0FBRXRELE9BQU8sQ0FBQyxHQUFHLENBQUMsR0FBRyxDQUFDLENBQUM7OyJ9
